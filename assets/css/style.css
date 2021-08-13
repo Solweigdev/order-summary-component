@@ -108,6 +108,7 @@ body {
     border:none;
     width: 100%;
     cursor: pointer;
+    font-size: 15px;
 }
 
 .odc_container_box_footer_btn-submit {

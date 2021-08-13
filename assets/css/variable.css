@@ -1,0 +1,12 @@
+:root {
+    /* BLUE COLOR */
+    --blue-extra-light: #E0E8FF;
+    --blue-light: #F7F9FF;
+    --blue: #382AE1;
+    --blue-hover: #766CF1;
+    --blue-bold: #1F2E55;
+
+    /* TEXT COLOR */
+    --title: #1F2E55;
+    --paragraphe: #717FA6;
+}
